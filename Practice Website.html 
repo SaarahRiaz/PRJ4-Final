@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Practice Website </title>
+</head>
+
+<body>
+<p>
+This paragraph contains
+<strong>words in bold type</strong>,
+<em>words in italics</em> and
+<u>also underlined ones</u>.
+
+</p>
+<p>
+This paragraph contains
+<span>a span</span>,
+<a href="aboutus.html">a hyperlink sending you to part 1</a> and the
+<img src="images/common/logo-buas.svg" alt="Our logo" width="43" height="14">
+BUas logo.
+
+</p>	
+	
+</body>
+</html>
